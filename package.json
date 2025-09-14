@@ -9,11 +9,9 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "0.62.0",
-    "@huggingface/inference": "2.8.1",
-    "marked-react": "3.0.1",
+    "marked-react": "^3.0.1",
     "react": "^19.0.0-rc-8b08e99e-20240713",
     "react-dom": "^19.0.0-rc-8b08e99e-20240713",
-    "react-markdown": "9.0.1",
     "vite": "latest"
   },
   "devDependencies": {
